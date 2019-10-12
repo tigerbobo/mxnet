@@ -1,0 +1,6 @@
+_SCL_SECURE_NO_WARNINGS
+_CRT_SECURE_NO_WARNINGS
+
+properties->c/c++->Preprocessor->Preprocessor Definitions:
+_SCL_SECURE_NO_WARNINGS
+_CRT_SECURE_NO_WARNINGS
